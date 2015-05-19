@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="75" height="20" tilewidth="35" tileheight="35" nextobjectid="1">
+ <tileset firstgid="1" source="Tiled2Unity/tileset_forTiled.tsx"/>
+ <layer name="Tile Layer 2" width="75" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzqENACAQBEHKoACgY/rFvMBD8gnMmBVnrhQAAHbzcAfgDzX7AE8Y0R5tWUcAuGIB900Bsg==
+  </data>
+ </layer>
+ <layer name="Tile Layer 1" width="75" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlEEKgCAUBf99ssxtZ6g7dK5WHaWjhfDcCJWWX0jebGajILxBEdIiRmT1nkSOO48iO84fJU3a5KkrCzt0RUgKV12xJ/KFuCv2REoQumJPpCQuoacBNkom/2KG4x2XxPuhJwtPSiY6vP0PnPJ7tHtiV3nk9vF2vxEu1VftnthVHrX2iPvq4S3THVy7J+8T7EQ6kw==
+  </data>
+ </layer>
+</map>

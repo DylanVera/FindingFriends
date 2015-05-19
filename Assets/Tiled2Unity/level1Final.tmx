@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="20" tilewidth="35" tileheight="35" nextobjectid="1">
+ <tileset firstgid="1" source="tileset_forTiled.tsx"/>
+ <layer name="Tile Layer 1" width="50" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGQedAO2AUgMFiKN0xoK4YBTCgg0YbDpRDRgEYWKHRBlCalvEiQUOzhzpAjw9i4sUGStsSoO3Q9KlBaRUorYomvwUHvRWNjwyWYBEbygBXfKDHC6w8m0UmjV4uUpsGAAaEEco=
+  </data>
+ </layer>
+</map>

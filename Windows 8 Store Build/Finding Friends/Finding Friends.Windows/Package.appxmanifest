@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="36150DylanVera.FindingFriends" Publisher="CN=E97A4E93-8753-4578-862A-18527F22CE54" Version="1.1.0.0" ProcessorArchitecture="x86" />
+  <Properties>
+    <DisplayName>Finding Friends</DisplayName>
+    <PublisherDisplayName>Dylan Vera</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="FindingFriends.App">
+      <m2:VisualElements DisplayName="Finding Friends" Square150x150Logo="Assets\MediumTile.png" Square30x30Logo="Assets\SmallLogo.png" Description="Finding Friends is a game about exploring an alien world in your UFO to find and collect new friends." ForegroundText="light" BackgroundColor="#000000">
+        <m2:DefaultTile ShortName="Finding Frien" Wide310x150Logo="Assets\WideTile.png" DefaultSize="square150x150Logo">
+          <m2:ShowNameOnTiles>
+            <m2:ShowOn Tile="square150x150Logo" />
+            <m2:ShowOn Tile="wide310x150Logo" />
+          </m2:ShowNameOnTiles>
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+        <m2:InitialRotationPreference>
+          <m2:Rotation Preference="landscape" />
+        </m2:InitialRotationPreference>
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+</Package>

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VADER</Machine>
+    <WindowsUser>dilen_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>36150DylanVera.FindingFriends</PackageIdentityName>
+    <IntermediateOutputPath>D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>570A035C9F5538284E512FEE45F94CBF2962BA31CD2A02566031577E4E10C3A4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>36150DylanVera.FindingFriends_1.1.0.0_x86__6pw4f82t68rzm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>36150DylanVera.FindingFriends_6pw4f82t68rzm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>36150DylanVera.FindingFriends</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=E97A4E93-8753-4578-862A-18527F22CE54</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-19T20:29:46.585</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\bin\x86\Debug\Template.exe">
+      <PackagePath>Template.exe</PackagePath>
+      <Modified>2015-05-19T20:29:44.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Players\Windows81\x86\Debug\BridgeInterface.winmd">
+      <PackagePath>BridgeInterface.winmd</PackagePath>
+      <Modified>2015-02-24T16:35:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Players\Windows81\x86\Debug\UnityEngineDelegates.winmd">
+      <PackagePath>UnityEngineDelegates.winmd</PackagePath>
+      <Modified>2015-02-24T16:35:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Players\Windows81\x86\Debug\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2015-02-24T16:37:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Players\Windows81\x86\Debug\WinRTBridge.winmd">
+      <PackagePath>WinRTBridge.winmd</PackagePath>
+      <Modified>2015-02-24T16:35:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
+      <Modified>2015-05-19T20:29:44.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\UnityEngine.UI.dll">
+      <PackagePath>UnityEngine.UI.dll</PackagePath>
+      <Modified>2015-05-19T20:29:44.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Players\Windows81\x86\Debug\UnityEngineProxy.dll">
+      <PackagePath>UnityEngineProxy.dll</PackagePath>
+      <Modified>2015-02-24T16:35:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\WinRTLegacy.dll">
+      <PackagePath>WinRTLegacy.dll</PackagePath>
+      <Modified>2015-05-19T20:29:44.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Players\Windows81\x86\Debug\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2015-02-24T16:37:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Players\Windows81\x86\Debug\BridgeInterface.dll">
+      <PackagePath>BridgeInterface.dll</PackagePath>
+      <Modified>2015-02-24T16:35:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Players\Windows81\x86\Debug\UnityEngineDelegates.dll">
+      <PackagePath>UnityEngineDelegates.dll</PackagePath>
+      <Modified>2015-02-24T16:35:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\bin\Store 8.1\x86\Debug\Assembly-CSharp-firstpass.dll">
+      <PackagePath>Assembly-CSharp-firstpass.dll</PackagePath>
+      <Modified>2015-05-19T20:29:44.092</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\Assets\MediumTile.scale-100.png">
+      <PackagePath>Assets\MediumTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-23T12:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-24T17:08:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-24T17:08:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-23T12:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\Assets\WideTile.scale-100.png">
+      <PackagePath>Assets\WideTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-23T12:54:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\Data\managedAssemblies.txt">
+      <PackagePath>Data\managedAssemblies.txt</PackagePath>
+      <Modified>2015-05-19T20:22:24.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2015-05-19T20:22:19.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\level1">
+      <PackagePath>Data\level1</PackagePath>
+      <Modified>2015-05-19T20:22:19.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\level2">
+      <PackagePath>Data\level2</PackagePath>
+      <Modified>2015-05-19T20:22:19.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\level3">
+      <PackagePath>Data\level3</PackagePath>
+      <Modified>2015-05-19T20:22:20.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\level4">
+      <PackagePath>Data\level4</PackagePath>
+      <Modified>2015-05-19T20:22:20.620</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\mainData">
+      <PackagePath>Data\mainData</PackagePath>
+      <Modified>2015-05-19T20:22:21.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2015-02-24T17:12:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2015-05-19T20:22:21.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2015-05-19T20:22:21.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\sharedassets1.assets">
+      <PackagePath>Data\sharedassets1.assets</PackagePath>
+      <Modified>2015-05-19T20:22:21.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\sharedassets2.assets">
+      <PackagePath>Data\sharedassets2.assets</PackagePath>
+      <Modified>2015-05-19T20:22:21.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\sharedassets3.assets">
+      <PackagePath>Data\sharedassets3.assets</PackagePath>
+      <Modified>2015-05-19T20:22:21.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\sharedassets4.assets">
+      <PackagePath>Data\sharedassets4.assets</PackagePath>
+      <Modified>2015-05-19T20:22:21.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Shared\Data\sharedassets5.assets">
+      <PackagePath>Data\sharedassets5.assets</PackagePath>
+      <Modified>2015-05-19T20:22:21.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-19T20:29:42.343</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-19T20:29:42.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\bin\x86\Debug\Template.xr.xml">
+      <PackagePath>Template.xr.xml</PackagePath>
+      <Modified>2015-05-19T20:29:42.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\bin\Store 8.1\x86\Debug\Assembly-CSharp.dll">
+      <PackagePath>Assembly-CSharp.dll</PackagePath>
+      <Modified>2015-05-19T20:29:44.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\planetary\Windows 8 Store Build\Finding Friends\Finding Friends.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-19T20:29:45.110</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

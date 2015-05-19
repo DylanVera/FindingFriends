@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 5a250ecf7c6b38746ba8b8c8da69897f
+timeCreated: 1431625639
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: laserBeige1.png
+    21300002: laserBeige2.png
+    21300004: laserBeige3.png
+    21300006: laserBeige_burst.png
+    21300008: laserBeige_groundBurst.png
+    21300010: laserBlue1.png
+    21300012: laserBlue2.png
+    21300014: laserBlue3.png
+    21300016: laserBlue_burst.png
+    21300018: laserBlue_groundBurst.png
+    21300020: laserGreen1.png
+    21300022: laserGreen2.png
+    21300024: laserGreen3.png
+    21300026: laserGreen_burst.png
+    21300028: laserGreen_groundBurst.png
+    21300030: laserPink1.png
+    21300032: laserPink2.png
+    21300034: laserPink3.png
+    21300036: laserPink_burst.png
+    21300038: laserPink_groundBurst.png
+    21300040: laserYellow1.png
+    21300042: laserYellow2.png
+    21300044: laserYellow3.png
+    21300046: laserYellow_burst.png
+    21300048: laserYellow_groundBurst.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: laserBeige1.png
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 212
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserBeige2.png
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 412
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserBeige3.png
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 23
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserBeige_burst.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserBeige_groundBurst.png
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 58
+        width: 172
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserBlue1.png
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 312
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserBlue2.png
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 68
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserBlue3.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserBlue_burst.png
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 324
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserBlue_groundBurst.png
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 168
+        width: 172
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserGreen1.png
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 412
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserGreen2.png
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 124
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserGreen3.png
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 23
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserGreen_burst.png
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 324
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserGreen_groundBurst.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 172
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserPink1.png
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 312
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserPink2.png
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 24
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserPink3.png
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 23
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserPink_burst.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserPink_groundBurst.png
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 58
+        width: 172
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserYellow1.png
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 412
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserYellow2.png
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 224
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserYellow3.png
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 23
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserYellow_burst.png
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 136
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: laserYellow_groundBurst.png
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 246
+        width: 172
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

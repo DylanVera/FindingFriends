@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: f6df9815e2b2828409fbe5baa9bd5cbc
+timeCreated: 1429841825
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jets_0
+    21300002: jets_1
+    21300004: jets_2
+    21300006: jets_3
+    21300008: jets_4
+    21300010: jets_5
+    21300012: jets_6
+    21300014: jets_7
+    21300016: jets_8
+    21300018: jets_9
+    21300020: jets_10
+    21300022: jets_11
+    21300024: jets_12
+    21300026: jets_13
+    21300028: jets_14
+    21300030: jets_15
+    21300032: jets_16
+    21300034: jets_17
+    21300036: jets_18
+    21300038: jets_19
+    21300040: jets_20
+    21300042: jets_21
+    21300044: jets_22
+    21300046: jets_23
+    21300048: jets_24
+    21300050: jets_25
+    21300052: jets_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: jets_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 217
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 205
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 215
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 213
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 215
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 213
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 153
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 141
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 151
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 149
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 150
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 148
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 91
+        width: 60
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 79
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 89
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 87
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 88
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 86
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 21
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_23
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 21
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 21
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 21
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: jets_26
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 21
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
